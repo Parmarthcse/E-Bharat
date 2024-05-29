@@ -18,8 +18,8 @@ import AddProductPage from './pages/admin/AddProductPage';
 import UpdateProductPage from './pages/admin/UpdateProductPage';
 import MyState from './context/myState';
 import {Toaster} from "react-hot-toast"
-import { ProtectedRouteForUser } from './prodectedRoute/ProtectedRouteForUser';
-import { ProtectedRouteForAdmin } from './prodectedRoute/ProtectedRouteForAdmin';
+import { ProtectedRouteForUser } from './protectedRoute/ProtectedRouteForUser';
+import { ProtectedRouteForAdmin } from './protectedRoute/ProtectedRouteForAdmin';
 import CategoryPage from "./pages/category/CategoryPage";
 
 
